@@ -77,3 +77,7 @@
 0.0.0.0 tr-casino.com
 0.0.0.0 tr-casinoslot.com
 0.0.0.0 kazandiranbahis.com
+0.0.0.0 ads.betmedia.com
+0.0.0.0 adserver.betads.com
+0.0.0.0 affiliate.1xbet.com
+0.0.0.0 trk.bahislinki.com
